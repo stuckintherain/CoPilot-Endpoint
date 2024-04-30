@@ -20,8 +20,11 @@ Next go back to VSC click extensions and search for CodeGPT
 Download and install the extention that has over 1million downloads. Currently.
 
 Click the little gear on the CodeGPT and open up the settings and select extension settings.
+![Screenshot 2024-04-30 101551](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/6b365fb7-d374-40b7-83e0-3f3a733bb4f1)
 
 On the first drop down we are going to choose Ollama
+
+![Screenshot 2024-04-30 091519](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/628ddfb0-1f59-40c8-835d-57cb61078b4f)
 
 Below the language drop down there is Code GPT.Autocomplete: and click the checkbox for Enable CodeGPT Copilot
 
