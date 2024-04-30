@@ -1,7 +1,7 @@
 # CoPilot-Endpoint
 Set up your own CoPilotGPT on your VSCode. Local copilot that does not send your data to Microsoft.  
 
-Huge thank you to Stephen here for the info. If you want to watch a short video on how to do this here you go. https://www.tiktok.com/t/ZPRwfVK5t/
+Huge thank you to Stephen Blum from PubNub @stephenblumpubnub here for the info. If you want to watch a short video on how to do this here you go. https://www.tiktok.com/t/ZPRwfVK5t/
 
 First, open VSCode and check for updates. If updates are available you will see "restart to update." Click that and VSCode will reboot and you will be using the
 latest version.
