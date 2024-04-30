@@ -13,6 +13,7 @@ Open a local terminal and pull the latest metas. In the terminal enter
 
 When that has finished once again in the terminal pull instruct. 
 'ollama pull llama3:instruct'
+![Screenshot 2024-04-30 093536](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/3d856a71-9fc0-450e-b850-cbfed7c9586f)
 
 Next go back to VSC click extensions and search for CodeGPT
 
