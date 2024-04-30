@@ -3,6 +3,7 @@ Set up your own CoPilotGPT on your VSCode. Local copilot that does not send your
 
 First, open VSCode and check for updates. If updates are available you will see "restart to update." Click that and VSCode will reboot and you will be using the
 latest version.
+![Screenshot 2024-04-30 090856](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/291d640b-1c2e-4084-953b-1eb99da20b08)
 
 Now go to ollama.com and download and install ollama for your OS.
 ![Screenshot 2024-04-30 090740](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/b10e7026-7396-4a14-8c0b-4949dd9ab37b)
