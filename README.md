@@ -5,6 +5,7 @@ First, open VSCode and check for updates. If updates are available you will see 
 latest version.
 
 Now go to ollama.com and download and install ollama for your OS.
+![Screenshot 2024-04-30 090740](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/b10e7026-7396-4a14-8c0b-4949dd9ab37b)
 
 Open a local terminal and pull the latest metas. In the terminal enter 
 'ollama pull llama3:8b' (this can take awhile.Took me about 12mins.)
