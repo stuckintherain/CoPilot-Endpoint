@@ -27,12 +27,15 @@ On the first drop down we are going to choose Ollama
 ![Screenshot 2024-04-30 091519](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/628ddfb0-1f59-40c8-835d-57cb61078b4f)
 
 Below the language drop down there is Code GPT.Autocomplete: and click the checkbox for Enable CodeGPT Copilot
+![Screenshot 2024-04-30 091742](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/167b6358-1a94-4ea9-b702-6a96d5e3fc8d)
 
 On the next drop down under Code GPT.Autocomplete: Provider you will pick Ollama3:instruct
+![Screenshot 2024-04-30 093858](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/8aad37cc-11d8-4876-ae25-15365f2c6f37)
 
 Next open up the code gpt dialog window.
 
 At the top you will see 'Select A Model' and make sure you have Ollama3:8b
+![Screenshot 2024-04-30 093950](https://github.com/stuckintherain/CoPilot-Endpoint/assets/117696531/a18b3337-812c-4491-9424-655216675230)
 
 This is a pretty slow llm but it's yours!
 
